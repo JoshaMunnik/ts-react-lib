@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "strict": true,
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "moduleResolution": "Node",
+    "jsx": "react-jsx"
+  },
+  "exclude": [
+    "tests",
+    "dist",
+    "node_modules"
+  ],
+  "include" : [
+    "./src"
+  ]
+}

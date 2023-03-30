@@ -1,0 +1,1 @@
+{"version":3,"file":"UFRedux.js","sourceRoot":"","sources":["../../src/tools/UFRedux.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;;;;;;;GAsBG;AAoBH,YAAY;AAEZ,eAAe;AAEf,MAAM,OAAO,OAAO;IAClB;;;;;;;;;;;;;;;;;;;;;;;;;;OA0BG;IACH,MAAM,CAAC,aAAa,CAAI,KAAQ;QAC9B,OAAO,UAAiB,KAAQ;YAC9B,uBACE,IAAI,EAAE,KAAK,IACR,KAAK,EACT;QACH,CAAC,CAAA;IACH,CAAC;CAEF;AAED,YAAY"}
