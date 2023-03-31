@@ -22,7 +22,10 @@
  * SUCH DAMAGE.
  */
 import * as React from 'react';
-type UFKeyboardCallback = (key: string, shift: boolean, ctrl: boolean, alt: boolean) => any;
+/**
+ * Callback type
+ */
+export type UFKeyboardCallback = (key: string, shift: boolean, ctrl: boolean, alt: boolean) => any;
 /**
  * Properties for {@link UFKeyboard}.
  */
@@ -75,4 +78,3 @@ export declare class UFKeyboard extends React.Component<UFKeyboardProps> {
      */
     render(): null;
 }
-export {};

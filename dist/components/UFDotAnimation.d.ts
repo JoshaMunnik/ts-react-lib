@@ -24,6 +24,8 @@
 import * as React from 'react';
 /**
  * State for component
+ *
+ * @private
  */
 interface UFDotAnimationState {
     dotCount: number;

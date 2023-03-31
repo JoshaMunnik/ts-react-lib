@@ -24,7 +24,7 @@
 import * as React from 'react';
 import { IUFDynamicObject } from "@ultraforce/ts-general-lib/dist/types/IUFDynamicObject";
 /**
- * Properties for {@link TT}
+ * Properties for {@link UFTT}
  */
 export interface UFTTProps {
     /**

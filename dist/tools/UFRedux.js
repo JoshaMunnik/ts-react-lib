@@ -29,7 +29,7 @@ export class UFRedux {
      * to obtain the enum value type from an enum value or vice versa the method must be called two times with the same
      * enum value type.
      *
-     * The payload properties can be set using the returned function. If there is no payload, use {}.
+     * The payload properties can be set using the returned function. If there is no payload, use empty object (`{}`).
      *
      * Since partial type inference is not possible, two functions are needed.
      *
