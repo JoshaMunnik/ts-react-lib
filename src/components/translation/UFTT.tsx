@@ -25,8 +25,8 @@
 // region imports
 
 import * as React from 'react';
-import {IUFDynamicObject} from "@ultraforce/ts-general-lib/dist/types/IUFDynamicObject";
-import {UFTranslationContext} from "../../contexts/UFTranslationContext";
+import {IUFDynamicObject} from "@ultraforce/ts-general-lib/dist/types/IUFDynamicObject.js";
+import {UFTranslationContext} from "../../contexts/UFTranslationContext.js";
 
 // endregion
 

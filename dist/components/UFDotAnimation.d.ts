@@ -44,6 +44,6 @@ export declare class UFDotAnimation extends React.Component<{}, UFDotAnimationSt
     handleTimerTick(): void;
     componentDidMount(): void;
     componentWillUnmount(): void;
-    render(): JSX.Element;
+    render(): import("react/jsx-runtime").JSX.Element;
 }
 export {};

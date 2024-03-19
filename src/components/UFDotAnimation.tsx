@@ -54,7 +54,7 @@ export class UFDotAnimation extends React.Component<{},UFDotAnimationState> {
    *
    * @private
    */
-  private m_timer: NodeJS.Timer | null;
+  private m_timer: ReturnType<typeof setInterval> | null;
 
   // endregion
 

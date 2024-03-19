@@ -1,6 +1,6 @@
 {
   "name": "@ultraforce/ts-react-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Various typescript utility classes for React.",
   "scripts": {
     "build": "tsc",
@@ -25,6 +25,8 @@
   "bin": {
     "UFTTScanner": "./bin/UFTTScanner.js"
   },
+  "main": "./dist/index.js",
+  "type": "module",
   "typings": "./dist/index.d.ts",
   "author": "Josha Munnik",
   "license": "MIT",

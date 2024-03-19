@@ -1,5 +1,5 @@
 import { jsx as _jsx } from "react/jsx-runtime";
-import { UFTranslationContext } from "../../contexts/UFTranslationContext";
+import { UFTranslationContext } from "../../contexts/UFTranslationContext.js";
 /**
  * {@link UFTT} is a translatable text component.
  */

@@ -21,7 +21,7 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  */
-import { IUFTranslationTexts } from "../components/translation/UFTranslationProvider";
+import { IUFTranslationTexts } from "../components/translation/UFTranslationProvider.js";
 /**
  * {@link UFTranslation} implement static support methods for translation.
  */

@@ -22,7 +22,7 @@
  * SUCH DAMAGE.
  */
 import * as React from 'react';
-import { IUFDynamicObject } from "@ultraforce/ts-general-lib/dist/types/IUFDynamicObject";
+import { IUFDynamicObject } from "@ultraforce/ts-general-lib/dist/types/IUFDynamicObject.js";
 /**
  * Properties for {@link UFTT}
  */

@@ -1,7 +1,7 @@
 import { jsx as _jsx } from "react/jsx-runtime";
-import { UFTranslationContext } from "../../contexts/UFTranslationContext";
-import { UFText } from "@ultraforce/ts-general-lib/dist/tools/UFText";
-import { UFReact } from "../../tools/UFReact";
+import { UFTranslationContext } from "../../contexts/UFTranslationContext.js";
+import { UFText } from "@ultraforce/ts-general-lib/dist/tools/UFText.js";
+import { UFReact } from "../../tools/UFReact.js";
 // endregion
 // region local types and functions
 /**

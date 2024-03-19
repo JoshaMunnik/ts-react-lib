@@ -25,7 +25,7 @@
 // region imports
 
 import * as React from 'react';
-import {UFTT, UFTTProps} from "./UFTT";
+import {UFTT, UFTTProps} from "./UFTT.js";
 
 // endregion
 

@@ -10,7 +10,7 @@ var __rest = (this && this.__rest) || function (s, e) {
     return t;
 };
 import { jsx as _jsx } from "react/jsx-runtime";
-import { UFTT } from "./UFTT";
+import { UFTT } from "./UFTT.js";
 // endregion
 // region component
 export const UFTTDiv = (_a) => {

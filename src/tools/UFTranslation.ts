@@ -24,7 +24,7 @@
 
 // region imports
 
-import {IUFTranslationTexts} from "../components/translation/UFTranslationProvider";
+import {IUFTranslationTexts} from "../components/translation/UFTranslationProvider.js";
 
 // endregion
 

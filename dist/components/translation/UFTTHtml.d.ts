@@ -22,5 +22,5 @@
  * SUCH DAMAGE.
  */
 import * as React from 'react';
-import { UFTTProps } from "./UFTT";
+import { UFTTProps } from "./UFTT.js";
 export declare const UFTTHtml: React.FC<Omit<UFTTProps, 'html'>>;
