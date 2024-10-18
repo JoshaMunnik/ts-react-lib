@@ -1,12 +1,19 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "strict": true,
     "declaration": true,
     "sourceMap": true,
     "outDir": "./dist",
     "moduleResolution": "Node",
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true
   },
   "exclude": [
     "tests",
